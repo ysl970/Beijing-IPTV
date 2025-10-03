@@ -425,64 +425,7 @@ CGTN-法咪咕,http://go.bkpcp.top/mg/cgtnf
 陕西卫视咪咕,http://go.bkpcp.top/mg/sxws
 兵团卫视咪咕,http://go.bkpcp.top/mg/btws
 黑龙江视咪咕,http://go.bkpcp.top/mg/hljws
-中央电视台,#genre#
-CCTV1,https://60.191.56.186:8888/hls/1/index.m3u8
-CCTV2,https://60.191.56.186:8888/hls/2/index.m3u8
-CCTV3,https://60.191.56.186:8888/hls/3/index.m3u8
-CCTV4,https://60.191.56.186:8888/hls/4/index.m3u8
-CCTV5,https://60.191.56.186:8888/hls/5/index.m3u8
-CCTV6,https://60.191.56.186:8888/hls/6/index.m3u8
-CCTV7,https://60.191.56.186:8888/hls/7/index.m3u8
-CCTV8,https://60.191.56.186:8888/hls/8/index.m3u8
-CCTV9,https://60.191.56.186:8888/hls/9/index.m3u8
-CCTV10,https://60.191.56.186:8888/hls/10/index.m3u8
-CCTV11标清,https://60.191.56.186:8888/hls/11/index.m3u8
-CCTV12,https://60.191.56.186:8888/hls/12/index.m3u8
-CCTV13,https://60.191.56.186:8888/hls/13/index.m3u8
-CCTV15标清,https://60.191.56.186:8888/hls/14/index.m3u8
-CCTV5+,https://60.191.56.186:8888/hls/15/index.m3u8
-CCTV16,https://60.191.56.186:8888/hls/16/index.m3u8
 
-浙江卫视,https://60.191.56.186:8888/hls/17/index.m3u8
-山东卫视,https://60.191.56.186:8888/hls/46/index.m3u8
-钱江,https://60.191.56.186:8888/hls/18/index.m3u8
-浙江经济生活,https://60.191.56.186:8888/hls/19/index.m3u8
-之江记录,https://60.191.56.186:8888/hls/20/index.m3u8
-浙江新闻,https://60.191.56.186:8888/hls/21/index.m3u8
-浙江6频道,https://60.191.56.186:8888/hls/22/index.m3u8
-浙江少儿,https://60.191.56.186:8888/hls/23/index.m3u8
-综合HTV1,https://60.191.56.186:8888/hls/25/index.m3u8
-明珠HTV2,https://60.191.56.186:8888/hls/26/index.m3u8
-生活HTV3,https://60.191.56.186:8888/hls/27/index.m3u8
-影视HTV4,https://60.191.56.186:8888/hls/28/index.m3u8
-青少体育HTV5,https://60.191.56.186:8888/hls/29/index.m3u8
-东方卫视,https://60.191.56.186:8888/hls/30/index.m3u8
-湖南卫视,https://60.191.56.186:8888/hls/31/index.m3u8
-安徽卫视,https://60.191.56.186:8888/hls/32/index.m3u8
-江苏卫视,https://60.191.56.186:8888/hls/33/index.m3u8
-北京卫视,https://60.191.56.186:8888/hls/34/index.m3u8
-重庆卫视,https://60.191.56.186:8888/hls/35/index.m3u8
-贵州卫视,https://60.191.56.186:8888/hls/36/index.m3u8
-四川卫视,https://60.191.56.186:8888/hls/37/index.m3u8
-广东卫视,https://60.191.56.186:8888/hls/38/index.m3u8
-天津卫视,https://60.191.56.186:8888/hls/41/index.m3u8
-河南卫视,https://60.191.56.186:8888/hls/57/index.m3u8
-河北卫视,https://60.191.56.186:8888/hls/43/index.m3u8
-黑龙江卫视,https://60.191.56.186:8888/hls/44/index.m3u8
-东南卫视,https://60.191.56.186:8888/hls/47/index.m3u8
-湖北卫视,https://60.191.56.186:8888/hls/48/index.m3u8
-辽宁卫视,https://60.191.56.186:8888/hls/49/index.m3u8
-江西卫视,https://60.191.56.186:8888/hls/50/index.m3u8
-CCTV1标清,https://60.191.56.186:8888/hls/40/index.m3u8
-青海卫视标清,https://60.191.56.186:8888/hls/51/index.m3u8
-陕西卫视标清,https://60.191.56.186:8888/hls/53/index.m3u8
-海南卫视标清,https://60.191.56.186:8888/hls/45/index.m3u8
-山西卫视标清,https://60.191.56.186:8888/hls/55/index.m3u8
-云南卫视标清,https://60.191.56.186:8888/hls/42/index.m3u8
-吉林卫视标清,https://60.191.56.186:8888/hls/39/index.m3u8
-宁夏卫视标清,https://60.191.56.186:8888/hls/56/index.m3u8
-广西卫视标清,https://60.191.56.186:8888/hls/58/index.m3u8
-金鹰卡通标清,https://60.191.56.186:8888/hls/59/index.m3u8
 
 北京卫视4K超高清,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1757700010&sign=ed011d0c9301603a8400f3dfd9cad867
 北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1757700007&sign=f26c15c3f95bb60748e1474677e258f8
@@ -1335,6 +1278,7 @@ CHC动作电影,http://110.40.39.111:10216/mgtv/644368714.m3u8
 CHC家庭影院,http://110.40.39.111:10216/mgtv/644368373.m3u8
 
 CHC动作电影,http://8.138.7.223/tv/migu2.php?id=62
+
 
 
 
