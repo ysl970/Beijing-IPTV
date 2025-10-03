@@ -1,4 +1,4 @@
-央视
+央视频道,#genre#
 CCTV1综合,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/CCTV-1H265.m3u8
 CCTV2财经,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/CCTV-2H265.m3u8
 CCTV3综艺,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/CCTV-3H265.m3u8
@@ -38,7 +38,7 @@ CHC影迷电影,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live
 CHC动作电影,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/wqCHCdzdyH265.m3u8
 CHC家庭影院,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/jbtygqCHCjtyyH265.m3u8
 
-卫视
+卫视频道,#genre#
 北京卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/bjwsH265.m3u8
 东方卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/dfwsH265.m3u8
 天津卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/tjwsH265.m3u8
@@ -72,7 +72,7 @@ CHC家庭影院,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live
 西藏卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/xzwsH264.m3u8
 海南卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/hnws.m3u8
 
-地方
+地方频道,#genre#
 北京纪实科教,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/bjjs.m3u8
 四海钓鱼,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/shdy.m3u8
 车迷频道,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/cmpdH264.m3u8
@@ -109,7 +109,7 @@ CHC家庭影院,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live
 此字符被系统屏蔽中文,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/test1.m3u8
 此字符被系统屏蔽资讯,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/test2.m3u8
 
-四川
+四川频道,#genre#
 四川经济,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/SCTV-2-H265.m3u8
 四川文化旅游,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/SCTV-3-H265.m3u8
 四川新闻,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/SCTV-4H265.m3u8
@@ -1675,6 +1675,7 @@ CHC动作电影,http://110.40.39.111:10216/mgtv/644368714.m3u8
 CHC家庭影院,http://110.40.39.111:10216/mgtv/644368373.m3u8
 
 CHC动作电影,http://8.138.7.223/tv/migu2.php?id=62
+
 
 
 
