@@ -436,7 +436,7 @@ CGTN-法,http://go.bkpcp.top/mg/cgtnf
 北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1757700008&sign=6ba05656e777ccdf36358d7170f65417
 北京纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1757700008&sign=2f362cb21710eb549ba6a9f48224ffa2
 北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1757700009&sign=c231c4d25092c924a2aff78900787a89
-央卫备用1,#genre#
+
 
 CCTV1,http://112.27.235.94:8000/hls/1/index.m3u8
 CCTV2,http://112.27.235.94:8000/hls/2/index.m3u8
@@ -1278,6 +1278,7 @@ CHC动作电影,http://110.40.39.111:10216/mgtv/644368714.m3u8
 CHC家庭影院,http://110.40.39.111:10216/mgtv/644368373.m3u8
 
 CHC动作电影,http://8.138.7.223/tv/migu2.php?id=62
+
 
 
 
